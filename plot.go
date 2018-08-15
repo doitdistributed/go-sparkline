@@ -4,6 +4,10 @@ import (
 	"image"
 	"image/color"
 	"gonum.org/v1/plot"
+	"gonum.org/v1/plot"
+	"gonum.org/v1/plotter"
+	"gonum.org/v1/vg"
+	"gonum.org/v1/vg/vgimg"
 )
 
 func init() {
