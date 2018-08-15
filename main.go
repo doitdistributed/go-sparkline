@@ -20,7 +20,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gonum/plot"
+	"github.com/gonum/plotter"
 	"gopkg.in/alecthomas/kingpin.v1"
 )
 
