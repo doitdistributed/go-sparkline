@@ -3,11 +3,7 @@ package main
 import (
 	"image"
 	"image/color"
-
-	"code.google.com/p/plotinum/plot"
-	"code.google.com/p/plotinum/plotter"
-	"code.google.com/p/plotinum/vg"
-	"code.google.com/p/plotinum/vg/vgimg"
+	"gonum.org/v1/plot"
 )
 
 func init() {
