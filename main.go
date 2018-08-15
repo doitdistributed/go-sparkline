@@ -21,6 +21,7 @@ import (
 	"time"
 
 	"github.com/gonum/plot"
+	"gonum.org/v1/plot"
 	"gopkg.in/alecthomas/kingpin.v1"
 )
 
